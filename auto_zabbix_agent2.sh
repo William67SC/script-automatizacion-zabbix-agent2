@@ -1,5 +1,6 @@
 #! /bin/bash
 # author william soliz castillo 02/11/2024
+# practicando github
 
 LOG_FILE="$HOME/log_file.txt"
 
